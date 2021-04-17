@@ -1,6 +1,6 @@
 {
   "name": "covidtracker",
-  "homepage": "http://Dipanshu72.github.io/covidtracker/",
+  "homepage": "http://dipanshu72.github.io/covidtracker/",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
